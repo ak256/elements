@@ -3,4 +3,5 @@ A simple sandbox game clone where you can select and manipulate various elements
 
 See details at https://andrewklinge.com/games/elements/
 
+![screenshot2](https://github.com/ak256/elements/blob/master/screenshots/screenshot2.png)
 ![screenshot1](https://github.com/ak256/elements/blob/master/screenshots/screenshot1.png)
